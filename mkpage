@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+
+mkdir src/"$1"
+cp .template.html src/"$1"/index.html
+

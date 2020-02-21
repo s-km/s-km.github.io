@@ -1,0 +1,16 @@
+{
+  "name": "sm.dev",
+  "version": "1.0.0",
+  "description": "personal site memes",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "serve": "node serve.js",
+    "start": "npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srdjan Mitrovic",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
